@@ -25,3 +25,4 @@ This project was part of the Data Drip Hackathon 2025 organized by Qafza. It foc
 
 **Output:**  
 - Interactive PDF dashboard
+[View PDF Dashboard](./PowerBI/MoneyMob.pdf)
