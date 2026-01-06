@@ -3,6 +3,10 @@
 
 Layan Emran, a Data Analyst interested in exploring data through structured analysis and clear presentation of insights.
 My approach emphasizes clarity, structure, and meaningful interpretation of data.
+---
+
+## Projects
+
 ### 📊 Project 1: MoneyMap – Customer Behavior Analysis
 
 **Objective:**  
