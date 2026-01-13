@@ -30,9 +30,11 @@ This project was part of the Data Drip Hackathon 2025 organized by Qafza. It foc
 ---
 ### 🤝 The Role of Volunteering in Improving the Performance of Non-Profit Organizations
 **Objective:** 
+
 Analyze data to explore the relationship between volunteering activities and the performance of non‑profit organizations.
 
 **Description:**
+
 This project was conducted as part of a Non‑Profit Sector Data Analysis Competition organized by the Kafa’at Charitable Association for Youth Capacity Building. The analysis focused on examining volunteering data and organizational indicators to identify patterns and relationships related to non‑profit performance.
 
 **Key Highlights:** 
