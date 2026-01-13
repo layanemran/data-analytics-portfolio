@@ -28,7 +28,7 @@ This project was part of the Data Drip Hackathon 2025 organized by Qafza. It foc
 [View PDF Dashboard](./PowerBI%20Projects/Money%20Map-PowerBI.pdf)
 
 ---
-### 🤝 Project 2: The Role of Volunteering in Improving the Performance of Non-Profit Organizations
+### 🤝 The Role of Volunteering in Improving the Performance of Non-Profit Organizations
 **Objective:** 
 Analyze data to explore the relationship between volunteering activities and the performance of non‑profit organizations.
 
