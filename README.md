@@ -47,6 +47,6 @@ This project was conducted as part of a Non‑Profit Sector Data Analysis Compet
 **Tools Used:** Python (Pandas, NumPy), Excel, Google Colab
 
 **Output:**  
-📄 [Project Report](Google Colab Projects/دور التطوع في تحسين  أداء الكيانات الغير ربحية-ليان عمران.pdf)
+📄 [Project Report](./Google%20Colab%20Projects/The%20Role%20of%20Volunteering%20in%20Improving%20the%20Performance%20of%20Non-Profit%20Organizations.pdf)
 🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1BCXNfyA2ubwGTWcpYqwiWj0GwFQpEyf5?usp=sharing)
 
