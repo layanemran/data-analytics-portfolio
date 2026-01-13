@@ -7,7 +7,7 @@ My approach emphasizes clarity, structure, and meaningful interpretation of data
 
 ## Projects
 
-### 📊 Project 1: MoneyMap – Customer Behavior Analysis
+### 📊MoneyMap – Customer Behavior Analysis
 
 **Objective:**  
 Analyze customer data to provide actionable insights that help banks understand behavior, make informed financial decisions, and manage risks effectively.
