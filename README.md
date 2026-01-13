@@ -24,8 +24,7 @@ This project was part of the Data Drip Hackathon 2025 organized by Qafza. It foc
 **Tools Used:** Power BI, Excel, Power Query
 
 **Output:**  
-- Interactive PDF dashboard
-[View PDF Dashboard](./PowerBI%20Projects/Money%20Map-PowerBI.pdf)
+- [View PDF Dashboard](./PowerBI%20Projects/Money%20Map-PowerBI.pdf)
 
 ---
 ### 🤝 The Role of Volunteering in Improving the Performance of Non-Profit Organizations
@@ -48,6 +47,6 @@ This project was conducted as part of a Non‑Profit Sector Data Analysis Compet
 **Tools Used:** Python (Pandas, NumPy), Excel, Google Colab
 
 **Output:**  
-📄 [Project Report](./Google%20Colab%20Projects/The%20Role%20of%20Volunteering%20in%20Improving%20the%20Performance%20of%20Non-Profit%20Organizations.pdf)
-🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1BCXNfyA2ubwGTWcpYqwiWj0GwFQpEyf5?usp=sharing)
+- 📄 [Project Report](./Google%20Colab%20Projects/The%20Role%20of%20Volunteering%20in%20Improving%20the%20Performance%20of%20Non-Profit%20Organizations.pdf)
+- 🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1BCXNfyA2ubwGTWcpYqwiWj0GwFQpEyf5?usp=sharing)
 
